@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 機密ファイル
+credentials.json
+token.json
+
+# 実行時出力
+*.csv
+
+# 一時ファイル
+check
